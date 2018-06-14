@@ -1,4 +1,4 @@
-# The Startup Guide
+# The Startup Playbook
 This project aims to collect, summarize and organized the collection of major practices to eunsure your startup is efficient and competitive in the future.
 
 # What's the difference?
